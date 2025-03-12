@@ -1,0 +1,8 @@
+{
+  "name": "bebo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "ddb8e940"
+}
